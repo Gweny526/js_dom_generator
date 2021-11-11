@@ -1,0 +1,75 @@
+*{
+    margin: .4rem;
+}
+.myH1{
+    font-size: 2.5rem;
+    color: snow;
+    border-left: solid 5px skyblue;
+    background-color: rgb(74, 156, 233);
+    border-radius: 5px;
+}
+hr{
+    background-color: royalblue;
+    height: 1px;
+}
+.btn1{
+    border: none;
+    width: 50px;
+    height: 50px;
+    font-size: 1.3rem;
+    margin-right: 1%;
+    border-radius: 5px;
+    margin: 7px;
+    cursor: pointer;
+}
+.btn2{
+    width: 70px;
+    height: 40px;
+    margin-top: 12px;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn3{
+    width: 50px;
+    height: 50px;
+    margin: 7px;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+.secLign{
+    display: flex;
+}
+.inputColor{
+    height: 50px;
+    width: 80px;
+    padding: 8px;
+    margin-top: 14px;
+    cursor: pointer;
+}
+.btnBorder{
+    width: 70px;
+    height: 50px;
+    background-color: white;
+    border: 0.1rem solid lightgrey;
+    cursor: pointer;
+}
+.thirdLign{
+    display: flex;
+}
+.inputRadius{
+    width: 70px;
+    height: 50px;
+    background-color: white;
+    border: 0.2rem solid grey;
+}
+.resetBtn{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: indianred;
+    color: white;
+    cursor: pointer;
+}
