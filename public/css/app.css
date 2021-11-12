@@ -1,5 +1,6 @@
 *{
     margin: .4rem;
+    background-color: thistle;
 }
 .myH1{
     font-size: 2.5rem;
@@ -65,6 +66,7 @@ hr{
     background-color: white;
     border: 0.2rem solid grey;
 }
+
 .resetBtn{
     height: 50px;
     width: 100px;
@@ -72,4 +74,7 @@ hr{
     background-color: indianred;
     color: white;
     cursor: pointer;
+}
+.visuel{
+    box-sizing: border-box;
 }
